@@ -96,7 +96,7 @@ The food is delicious, but the service can sometimes be slow.
 
 1. Open the Jupyter Notebook
 2. Install required libraries:
-3. 3. Run all cells step-by-step
+3.  Run all cells step-by-step
 4. Use the console input section to test custom sentences
 
 ---
