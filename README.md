@@ -108,6 +108,5 @@ This project demonstrates the practical application of transformer-based models 
 ---
 
 ##  Author
-    AMAL THOMAS
--
+ AMAL THOMAS
 Developed as part of a Machine Learning / NLP module project.
